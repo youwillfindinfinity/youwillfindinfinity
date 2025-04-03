@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/roland-v-bumbuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roland-v-bumbuc" height="30" width="40" /></a>
 <a href="https://fb.com/100006480688830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006480688830" height="30" width="40" /></a>
-<a href="https://instagram.com/youwillfindinfinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youwillfindinfinity" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/seedbiomed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seedbiomed" height="30" width="40" /></a>
+<a href="https://instagram.com/you_will_find_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youwillfindinfinity" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@TeamSeedBiomed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seedbiomed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youwillfindinfinity&show_icons=true&locale=en" alt="youwillfindinfinity" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youwillfindinfinity&" alt="youwillfindinfinity" /></p>
+
