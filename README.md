@@ -1,39 +1,119 @@
-<h1 align="center">Hi 👋, I'm Roland V. Bumbuc</h1>
-<h3 align="center">Merging Biomedical brains with Computational Science</h3>
+<h1 align="center">Hi, I'm Roland V. Bumbuc</h1>
+<h3 align="center">PhD Researcher | Computational Modeling of Burn Injuries</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youwillfindinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="youwillfindinfinity" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youwillfindinfinity" alt="youwillfindinfinity" /></a> </p>
-
-- 🔭 I’m currently working on **Computational Modeling of Burn injuries**
-
-- 👯 I’m looking to collaborate on [FAIR, Agent-Based modeling, AI/Machine Learning](http://seedbiomed.com)
-
-- 🤝 I’m looking for help with **Creating the first immune response based burn wound healing human virtual twin model**
-
-- 👨‍💻 All of my projects are available at [http://seedbiomed.com](http://seedbiomed.com)
-
-- 💬 Ask me about **Python, CC3D, agent-based models, cellular potts, computational biomedicine**
-
-- 📫 How to reach me **r.v.bumbuc@amsterdamumc.nl**
-
-- 📄 Know about my experiences [http://rbumbuc.com](http://rbumbuc.com)
-
-- ⚡ Fun fact **I can explain anything complex by using simple analogies :D**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roland-v-bumbuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roland-v-bumbuc" height="30" width="40" /></a>
-<a href="https://fb.com/100006480688830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006480688830" height="30" width="40" /></a>
-<a href="https://instagram.com/you_will_find_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youwillfindinfinity" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@TeamSeedBiomed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seedbiomed" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://rbumbuc.com"><img src="https://img.shields.io/badge/Portfolio-rbumbuc.com-blue?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://seedbiomed.com"><img src="https://img.shields.io/badge/Research-SeedBioMed-green?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"></a>
+  <a href="mailto:r.v.bumbuc@amsterdamumc.nl"><img src="https://img.shields.io/badge/Email-r.v.bumbuc@amsterdamumc.nl-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=youwillfindinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="youwillfindinfinity" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youwillfindinfinity&show_icons=true&locale=en&layout=compact" alt="youwillfindinfinity" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youwillfindinfinity&show_icons=true&locale=en" alt="youwillfindinfinity" /></p>
+## 🔬 About Me
 
+I'm a PhD candidate at **Amsterdam UMC** developing multiscale computational models of burn injury and wound healing. My research bridges clinical burn care with advanced simulation, integrating agent-based models, differential equations, and physics-informed machine learning to understand immune response and tissue recovery.
 
+- 🔭 **Currently:** One year from PhD completion, finalizing papers on PKPD inflammation modeling, PIGLASSO network analysis, and PINN-based burn recovery
+- 👯 **Collaboration interests:** FAIR research software, agent-based modeling, physics-informed neural networks, multi-omics network analysis
+- 🤝 **Seeking expertise:** Human virtual twin modeling for immune-response-driven burn wound healing
+- 💬 **Ask me about:** Python, CC3D, agent-based models, cellular Potts, computational biomedicine, complement system modeling
+- ⚡ **Approach:** I explain complex systems through simple analogies (useful for teaching and interdisciplinary teams!)
+
+---
+
+## 📂 Featured Repositories
+
+> **Note:** GitHub only allows pinning 6 repositories total. The six below represent my core work and key collaborations.
+
+| Repository | Owner | Description |
+|-----------|-------|-------------|
+| 🔥 [**Post Burn Immune Response**](https://github.com/youwillfindinfinity/post_burn_immune_response) | `youwillfindinfinity` | Immune response modeling codebase for burn injury simulations |
+| 🧬 [**Proliferative Study Burn Wound Healing**](https://github.com/youwillfindinfinity/Proliferative_Study_Burn_Wound_Healing) | `youwillfindinfinity` | Cellular Potts and proliferation models for wound healing dynamics |
+| 📊 [**T2D_CS_subm**](https://github.com/youwillfindinfinity/T2D_CS_subm) | `youwillfindinfinity` | Submission codebase for computational systems biology / diabetes modeling |
+| 🤖 [**Neural Agent Models**](https://github.com/giannis3p/neural-agent-models) | `giannis3p` | Collaborative neural network and agent-based modeling framework |
+| 🌱 [**SEEDBiomed**](https://github.com/TeamSeedBiomed/SEEDBiomed) | `TeamSeedBiomed` | Core research group repository for SEED BioMed projects |
+| 🗄️ [**FAIRDatabase**](https://github.com/SheratonMV/FAIRDatabase) | `SheratonMV` | FAIR data infrastructure for biomedical research and data governance |
+
+---
+
+## 🚀 Active Research & Projects
+
+| Project | What it does | Stage |
+|---------|-------------|-------|
+| **PIGLASSO** | Network inference pipeline for burn transcriptomics (n=513, p=164 genes, Agilent platforms) | ✅ Benchmarking complete, prior generation in progress |
+| **PKPD Inflammation** | Systemic inflammation model using clinical blood data to capture whole-body response in burn patients | 📝 Manuscript in preparation |
+| **NeurIPS LDI Recovery** | 3D physics-informed neural networks for burn depth estimation from thermal/laser Doppler imaging | 🔧 70% complete |
+| **Complement ODEs** | Mechanistic ODE modeling of human complement activation with parameter estimation from plasma data | 📝 Co-author submission ready |
+
+**Funding:** Dutch Burns Foundation, Health~Holland (PPS 22.01)
+
+---
+
+## 🛠️ Tech Stack
+
+**Modeling & Simulation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![CC3D](https://img.shields.io/badge/CC3D-CompuCell3D-orange?style=flat-square)
+![ODE/PDE](https://img.shields.io/badge/ODE%2FPDE-Scientific%20Computing-lightgrey?style=flat-square)
+
+**Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![DeepONets](https://img.shields.io/badge/DeepONets-PINNs-blue?style=flat-square)
+
+**Data & Network Analysis**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Analysis-green?style=flat-square)
+
+**Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9b59b6?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Workflow & Infrastructure**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-Snellius%20(SURF)-purple?style=flat-square)
+
+---
+
+## 📝 Recent & Upcoming Publications
+
+- **Informatics in Medicine Unlocked** — Medical data governance & privacy-preserving infrastructures in biomedical research *(submitted)*
+- **VPHD Acute Phase Response** — Computational modeling of systemic acute phase dynamics in burns
+- **NeurIPS Workshop** — LDI recovery trajectory prediction using PINNs *(targeting 2026)*
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/roland-v-bumbuc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Roland%20V.%20Bumbuc-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/@TeamSeedBiomed" target="_blank"><img src="https://img.shields.io/badge/YouTube-@TeamSeedBiomed-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+<a href="https://instagram.com/you_will_find_infinity" target="_blank"><img src="https://img.shields.io/badge/Instagram-@you_will_find_infinity-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+</p>
+
+- 📧 **Email:** r.v.bumbuc@amsterdamumc.nl
+- 🌐 **Portfolio:** http://rbumbuc.com
+- 🔬 **Research Group:** http://seedbiomed.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youwillfindinfinity&show_icons=true&theme=default&hide_border=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youwillfindinfinity&show_icons=true&layout=compact&hide_border=true&locale=en" alt="Top Languages" />
+</p>
