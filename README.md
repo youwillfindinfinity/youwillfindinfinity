@@ -32,7 +32,7 @@ I'm a PhD candidate at **Amsterdam UMC** developing multiscale computational mod
 | 🔥 [**Post Burn Immune Response**](https://github.com/youwillfindinfinity/post_burn_immune_response) | `youwillfindinfinity` | Immune response modeling codebase for agent basede burn injury simulations |
 | 🧬 [**Proliferative Study Burn Wound Healing**](https://github.com/youwillfindinfinity/Proliferative_Study_Burn_Wound_Healing) | `youwillfindinfinity` | Proliferation ODE model for wound healing dynamics |
 | 📊 [**T2D_CS_subm**](https://github.com/youwillfindinfinity/T2D_CS_subm) | `youwillfindinfinity` | Submission codebase for ICCS / diabetes modeling |
-| 🤖 **Neural Agent Models** | `giannis3p` and '[jkkov](https://github.com/Jkovv) | Collaborative neural network and agent-based modeling framework |
+| 🤖 **Neural Agent Models** | `giannis3p` and [jkkovv](https://github.com/Jkovv) | Collaborative neural network and agent-based modeling framework |
 | 🌱 [**SEEDBiomed**](https://github.com/TeamSeedBiomed/SEEDBiomed) | [`TeamSeedBiomed`](https://github.com/TeamSeedBiomed) | Core research group repository for SEED BioMed projects |
 | 🗄️ [**FAIRDatabase**](https://github.com/SheratonMV/FAIRDatabase) | [ `SheratonMV`](https://github.com/SheratonMV) | FAIR data infrastructure for biomedical research and data governance |
 
